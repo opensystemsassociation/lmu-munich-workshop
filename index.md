@@ -49,4 +49,3 @@ You can add a list quite easily like so:
 - No database required.
 
 See LISTS section of [markdown documentation](http://daringfireball.net/projects/markdown/basics).
-
