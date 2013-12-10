@@ -20,7 +20,7 @@ Built using Jekyll and hosted on Github Pages.
 
 ### Gareth's Passive Distractor
 
-Research:
+Research
 - A Pedagogical Turn - http://fillip.ca/content/a-pedagogical-turn
 - Social Scultpure / Classroom intervention. Joseph Beuys - Sun State (Blackboard) - http://en.wikipedia.org/wiki/Joseph_Beuys
 - Looking at ways of detecting movement and distance. Ultrasonic sensors receive ghost echos. Interesting fallibility - http://www.societyofrobots.com/member_tutorials/node/71
