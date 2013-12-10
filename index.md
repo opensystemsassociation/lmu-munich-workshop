@@ -12,12 +12,12 @@ This is [the Github respository](https://github.com/opensystemsassociation/lmu-m
 - [Getting Started With Arduino](http://reboot.yoha.co.uk/index.php?title=Getting_Started_with_Arduino)
 
 ## Projects
-### Anna's Tablecloth
-- ...
+### Anna's Tablecloth  
+- ...  
 - ..
 
-### Em's ATiny Creatures
-- ...
+### Em's ATiny Creatures  
+- ...  
 - ..
 
 ### Gareth's Passive Distractor
