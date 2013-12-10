@@ -1,25 +1,25 @@
 ---
 layout: page
-title: LMU - Critical Computing Workshop
+title: "LMU - Critical Computing Workshop"
 tagline: Resources
+published: true
 ---
 
+## Code
+This is [the Github respository](https://github.com/opensystemsassociation/lmu-munich-workshop "LMU Munich Workshop - Github Repo") that houses our code and 
 Built using Jekyll and hosted on Github Pages.  
-The page is rendered using [markdown](http://daringfireball.net/projects/markdown/basics). This is the most crucial [documentation](http://daringfireball.net/projects/markdown/) to edit this page. 
 
-* * *
+## General Resources
+- Link 1
+- Link 2
 
-This is how you link to particular things like the [OSA website](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+## Projects
+### Anna's Tablecloth
 
-See LINKS section of [markdown documentation](http://daringfireball.net/projects/markdown/basics).
+### Em's ATiny Creatures
 
-* * *
+### Gareth's Passive Distractor
 
-# Header 1
-## Header 2
-### Header 3
-
-See PARAGRAPHS, HEADERS, BLOCKQUOTES  section of [markdown documentation](http://daringfireball.net/projects/markdown/basics).
 
 * * *
 
