@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "LMU - Critical Computing Workshop"
-tagline: Resources
+tagline: Resources and Documentation
 published: true
 ---
 
@@ -24,8 +24,8 @@ This is [the Github respository](https://github.com/opensystemsassociation/lmu-m
 
 Research
 - A Pedagogical Turn - http://fillip.ca/content/a-pedagogical-turn
-- Social Scultpure / Classroom intervention. Joseph Beuys - Sun State (Blackboard) - http://en.wikipedia.org/wiki/Joseph_Beuys
-- Looking at ways of detecting movement and distance. Ultrasonic sensors receive ghost echos. Interesting fallibility - http://www.societyofrobots.com/member_tutorials/node/71
+- Social Scultpure / Classroom intervention. Joseph Beuys - Sun State (Blackboard) - [http://en.wikipedia.org/wiki/Joseph_Beuy](http://en.wikipedia.org/wiki/Joseph_Beuys)
+- Looking at ways of detecting movement and distance. Ultrasonic sensors receive ghost echos. Interesting fallibility - [http://www.societyofrobots.com/member_tutorials/node/71](http://www.societyofrobots.com/member_tutorials/node/71)
 - Sound / Noise / Silence. Elements of classroom dynamic:  
 [What Silence Taught John Cage](http://rosewhitemusic.com/piano/writings/silence-taught-john-cage/)  
 [Art of Noise/ Futurist Manifesto](http://www.artype.de/Sammlung/pdf/russolo_noise.pdf)  
